@@ -31,7 +31,7 @@ Edit this document to include your answers after each question. Make sure to lea
 1. Describe the biggest difference between `.forEach` & `.map`.
 `.map` returns a new array while `.forEach` manipulates the original array
 2. What is the difference between a function and a method?
-a method is a function inside of an object
+a function is something that is passed data (parameters) to carry out a job while a method is a function inside of an object and can be used with classes
 3. What is closure?
 it explains global vs function scope and how a global variable is available inside the scope, but a variable created within the function is not available outside the function
 4. Describe the four rules of the 'this' keyword.
